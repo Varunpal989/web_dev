@@ -1,0 +1,26 @@
+body{
+   background-color: violet;
+
+}
+.container{
+    height: 1000px;
+    width: 1500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black;
+}
+.box{
+    height: 50px;
+    width: 100px;
+    border:solid black;
+    background-color: rgb(255, 255, 0);
+}
+.one{
+    width: 1200px;
+    height: 150px;
+    border:solid black;
+    justify-content: center;
+    
+
+}
